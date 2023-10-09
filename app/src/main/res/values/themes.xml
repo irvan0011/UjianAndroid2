@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.UjianAndroid2" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+         <item name="colorPrimary">#1B2445</item>
+    </style>
+
+    <style name="Theme.UjianAndroid2" parent="Base.Theme.UjianAndroid2" />
+</resources>
